@@ -1,0 +1,19 @@
+GIT
+  remote: git@github.com:JonathanSeguin/CytogeneticsParser.git
+  revision: 0b152830e1e7c87319b9e9342cbccaf17c621b3e
+  specs:
+    cytogenetics (1.0.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    oracle_query (0.1.6)
+      ruby-oci8 (>= 2.1.3)
+    ruby-oci8 (2.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cytogenetics!
+  oracle_query
